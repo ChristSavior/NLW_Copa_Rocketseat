@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - GIT e GITHUB
 ## 💻 Projeto
 
-O Calendário é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+O Calendário é um componente que mostra os dias e horários que acontecerão os jogos da copa, que direciona o usuário até o link para assistir aos jogos (ainda a ser implementado).
 
 ## 🔖 Layout
 
